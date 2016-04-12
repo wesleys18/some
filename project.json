@@ -1,0 +1,10 @@
+{
+    "name": "some",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "some.xml",
+    "author": "wesleys18",
+    "minimum_firmware_version": 42
+}
